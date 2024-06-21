@@ -1,0 +1,55 @@
+//mugs-section-starts
+.mugs {
+    text-align: center;
+}
+.mugs__strong {
+    color: rgb(29, 31, 46);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;    
+    
+}
+.mugs__list {
+    margin-top: 100px;
+    margin-bottom: 104px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+.mugs__tittle {
+    margin-top: 35px;
+    color: rgb(29, 31, 46);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+}
+.mugs__strong-praice {
+    margin-top: 5px;
+    padding-bottom: 15px;
+    color: rgba(29, 31, 46, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0%;
+}
+.mugs__strong-praice-second{
+    color: rgb(162, 95, 75);
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+}
+.mugs__span{
+    color: rgba(29, 31, 46, 0.4);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-decoration-line: line-through;
+}
+//mugs-section-end
