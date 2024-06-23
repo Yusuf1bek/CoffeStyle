@@ -1,0 +1,12 @@
+.img-wrapper {
+    display: flex;
+    align-items: center;
+}
+.background-section{
+    width: 380px;
+    margin-top: 130px;
+     //height: 100vh;
+    background-image: url(../../images/bg-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
